@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+.bodyStyle{
+	background-color: #fff8dc;
+}
+
+.fieldsetStyle{
+	position: absolute;
+	top: 30%;
+	left: 30%;
+	
+}
+
+.h1Style{
+	position: absolute;
+	top: 20%;
+	left: 30%;
+}
+
+.input1Style{
+	position: relative;
+    left: 10px;
+}
+
+.userStyle{
+	  font-size: 20px;
+}
+
+.input2Style{
+	position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+.passStyle{
+	position: relative;
+    top: 20px;
+    font-size: 20px;
+}
+
+.buttonStyle{
+	position: relative;
+    top: 5px;
+    left: 92px;
+}
+
+.empID{
+ display: none; 
+}
